@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936981461795",
+    "project_id": "chat-app-8e85e",
+    "storage_bucket": "chat-app-8e85e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936981461795:android:bd32bf333d28aaa89e2a96",
+        "android_client_info": {
+          "package_name": "com.huy.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK33IQ3I1XMiCuRJKHz0dzOtQL1uM96RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
